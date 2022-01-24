@@ -1,0 +1,10 @@
+body{
+    background-image: url(background.jpg);
+     background-repeat: no-repeat;      /*a imagem se repete para ocupar todo o espaço */
+     background-position: center center; /*posição da imagem na tela*/
+     background-size: cover; /* "cover" =cobrir a tela toda*/
+     background-attachment: fixed; /*quando está fixed só o texto se move*/
+}
+p{
+    color: #222222;
+}
