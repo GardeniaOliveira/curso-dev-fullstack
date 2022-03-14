@@ -47,7 +47,7 @@ h3{
     border-color: white;
     border:0;
 }
-button{
+.button{
     width: 90%;
     height:38px;
     border: 0;
@@ -59,7 +59,7 @@ button{
     font-size: 15px;
     cursor: pointer;
 }
-button:hover{
+.button:hover{
     background-color: rgb(59, 59, 247);
 }
 .checkbox{
